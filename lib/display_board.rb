@@ -6,11 +6,17 @@ def display_board
   print "|"
   puts "   "
   puts "___________"
-  puts "           "
-  puts "   |   |   "
+  print "   "
+  print "|"
+  print "   "
+  print "|"
+  puts "   "
   puts "___________"
-  puts "           "
-  puts "   |   |   "
+  print "   "
+  print "|"
+  print "   "
+  print "|"
+  puts "   "
 end
   
 display_board
